@@ -10,7 +10,10 @@ A strong El Nino event began developing in 2026, and is predicted to peak in lat
 Project Outline:
 
 - Datasets
-MUR will be used to estimate Sea Surface Temperature. VIIRS will be used to estimate chlorophyll-a. Juvenile shiner surfperch size measurements from summer 2026 will be obtained from field collections, and summer 2025 measurements will be obtained from the California Marine Protected Area Surf Zone Monitoring Project.
+The Multi-scale Ultra-high Resolution (MUR) sea surface temperature (SST) dataset will be used to examine temperature at Stillwater Cove from June to September in 2025 and 2026. Visible Infrared Imaging Radiometer Suite (VIIRS) data will be used for chlorophyll-a estimates. Juvenile shiner surfperch size measurements from summer 2026 will be obtained from field collections, and summer 2025 measurements will be obtained from the California Marine Protected Area Surf Zone Monitoring Project.
 
 - Figures
-Proposed figures include SST from June-September in 2025 and 2026 at Stillwater Cove, Chlorophyll-a from June-September in 2025 and 2026 at Stillwater Cove, and juvenile shiner surfperch size in 2025 and 2026 at Stillwater Cove.
+Proposed figures include SST from June-September in 2025 and 2026 at Stillwater Cove, Chlorophyll-a from June-September in 2025 and 2026 at Stillwater Cove, and juvenile shiner surfperch size versus temperature in 2025 and 2026 at Stillwater Cove.
+
+- Approach
+
